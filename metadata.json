@@ -1,0 +1,5 @@
+{
+  "name": "부자재 단차 관리 리포트 (Sub-material Price Variance Tracker)",
+  "description": "제조업 부자재 매입단가와 매출단가 차이를 추적하고 추가 청구 프로세스를 관리하는 전문 대시보드입니다.",
+  "requestFramePermissions": []
+}
